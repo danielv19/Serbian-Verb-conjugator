@@ -1,10 +1,10 @@
 NAME,year,state,place,age group,frequency
 "Blacksburg town, Virginia",2009,Virginia,7784,All|All|All,32
-"Blacksburg town, Virginia",2009,Virginia,7784,Male|All|All,22249
-"Blacksburg town, Virginia",2009,Virginia,7784,Male|public college/graduate school|All,16389
+"Blacksburg town, Virginia",2009,Virginia,7784,Male|All|All,sd
+"Blacksburg town, Virginia",2009,Virginia,7784,Male|public college/graduate school|All,q
 "Blacksburg town, Virginia",2009,Virginia,7784,Male|public college/graduate school|15 - 17,102
-"Blacksburg town, Virginia",2009,Virginia,7784,Male|public college/graduate school|18 - 24,15038
-"Blacksburg town, Virginia",2009,Virginia,7784,Male|public college/graduate school|25 - 34,918
+"Blacksburg town, Virginia",2009,Virginia,7784,Male|public college/graduate school|18 - 24,234
+"Blacksburg town, Virginia",2009,Virginia,7784,Male|public college/graduate school|25 - 34,234
 "Blacksburg town, Virginia",2009,Virginia,7784,Male|public college/graduate school|>= 35,331
 "Blacksburg town, Virginia",2009,Virginia,7784,Male|private college/graduate school|All,215
 "Blacksburg town, Virginia",2009,Virginia,7784,Male|private college/graduate school|15 - 17,0
